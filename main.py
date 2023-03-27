@@ -1,5 +1,3 @@
-
-
 from board import init, display
 
 WIDTH = 10
